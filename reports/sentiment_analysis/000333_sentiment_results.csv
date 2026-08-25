@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647321213,美的也做机器人？这是要家家户户都搞一个都节奏吗？,20251231,20:41,负面,0.9995,E:\code\project\reports\sentiment_analysis\embeddings\000333\1647321213.npy
+1647310762,预计美的2025年利润458亿,20251231,19:32,正面,0.9992,E:\code\project\reports\sentiment_analysis\embeddings\000333\1647310762.npy
+1647306607,年报100%是增长的，长多少就看四季度怎么样，四季度估计不太好,20251231,19:04,中性,0.9987,E:\code\project\reports\sentiment_analysis\embeddings\000333\1647306607.npy
+1647298371,今天没事干脑子又冒出好几个离谱的想法，做家电，不能只在什么烧水器，空调，冰箱上下,20251231,18:15,中性,0.9992,E:\code\project\reports\sentiment_analysis\embeddings\000333\1647298371.npy
+1647297269,加仓,20251231,18:09,正面,0.999,E:\code\project\reports\sentiment_analysis\embeddings\000333\1647297269.npy

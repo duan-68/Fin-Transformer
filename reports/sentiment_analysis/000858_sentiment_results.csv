@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647217000,无良业，没有良心的企业,20251231,14:51,负面,0.9995,E:\code\project_1\reports\sentiment_analysis\embeddings\000858\1647217000.npy
+1647216009,祝贺全年最低收盘，,20251231,14:51,负面,0.9995,E:\code\project_1\reports\sentiment_analysis\embeddings\000858\1647216009.npy
+1647215726,被五粮微收割了,20251231,14:51,负面,0.9995,E:\code\project_1\reports\sentiment_analysis\embeddings\000858\1647215726.npy
+1647214499,砸盘，赶走亏钱的股民，,20251231,14:50,负面,0.9995,E:\code\project_1\reports\sentiment_analysis\embeddings\000858\1647214499.npy
+1647213175,。,20251231,14:49,中性,0.9987,E:\code\project_1\reports\sentiment_analysis\embeddings\000858\1647213175.npy

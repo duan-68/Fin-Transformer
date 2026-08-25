@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1646944200,2025年的最后一天，还不有点原本该有的样子,20251231,10:37,负面,0.9908,E:\code\project\reports\sentiment_analysis\embeddings\600036\1646944200.npy
+1646920376,小招，最后一天了，咱不能这么难看来告别这一年啊。,20251231,10:24,正面,0.9982,E:\code\project\reports\sentiment_analysis\embeddings\600036\1646920376.npy
+1646907412,，怎么买了个这个玩意,20251231,10:18,负面,0.9986,E:\code\project\reports\sentiment_analysis\embeddings\600036\1646907412.npy
+1646898432,每天一骂，招行软蛋,20251231,10:13,负面,0.9991,E:\code\project\reports\sentiment_analysis\embeddings\600036\1646898432.npy
+1646888792,田惠宇要是出来的话请重带招行走上巅峰,20251231,10:09,正面,0.9992,E:\code\project\reports\sentiment_analysis\embeddings\600036\1646888792.npy

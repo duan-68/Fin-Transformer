@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647323023,《预计2025长江电力EPS1.4610》2025年四季度，经测算三峡电站发电2,20251231,20:53,中性,0.6086,E:\code\project_1\reports\sentiment_analysis\embeddings\600900\1647323023.npy
+1647317185,明年电价下跌对水电的影响几何？,20251231,20:14,中性,0.6566,E:\code\project_1\reports\sentiment_analysis\embeddings\600900\1647317185.npy
+1647314915,越来越有你要它股息它要你本金的味道了,20251231,19:59,负面,0.9966,E:\code\project_1\reports\sentiment_analysis\embeddings\600900\1647314915.npy
+1647306793,跌了2个月了，你们认为还会再跌吗？看看历史走势,20251231,19:06,负面,0.9991,E:\code\project_1\reports\sentiment_analysis\embeddings\600900\1647306793.npy
+1647306156,什么时候登记什么时候分红吧？我今天买进来的能享受分红吗？,20251231,19:02,中性,0.9975,E:\code\project_1\reports\sentiment_analysis\embeddings\600900\1647306156.npy

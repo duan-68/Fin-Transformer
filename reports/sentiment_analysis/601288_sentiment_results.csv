@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647131508,主力我7.7本,20251231,13:50,正面,0.9389,E:\code\project\reports\sentiment_analysis\embeddings\601288\1647131508.npy
+1647128442,跌下来吧，不然显得我很多余,20251231,13:47,负面,0.9995,E:\code\project\reports\sentiment_analysis\embeddings\601288\1647128442.npy
+1647127029,小赚10杯瑞幸，明年见～,20251231,13:47,正面,0.8661,E:\code\project\reports\sentiment_analysis\embeddings\601288\1647127029.npy
+1647125751,今天全是主力的行为，年末最后一天，应该是红的收官，主力拉升了，我们应该跟上，低位,20251231,13:46,正面,0.9991,E:\code\project\reports\sentiment_analysis\embeddings\601288\1647125751.npy
+1647125619,7.7有一亿的抛压，压力很大，卖了,20251231,13:45,负面,0.9959,E:\code\project\reports\sentiment_analysis\embeddings\601288\1647125619.npy

@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647343059,保险优质股长期持有安全,20251231,23:27,正面,0.9991,E:\code\project_1\reports\sentiment_analysis\embeddings\601628\1647343059.npy
+1647310602,资讯2025年保险板块“大象起舞”：个股普涨收官、刷新多项历史纪录，行业周期向好或已确立｜年终盘点,20251231,19:31,中性,0.9908,E:\code\project_1\reports\sentiment_analysis\embeddings\601628\1647310602.npy
+1647297196,资讯2025年A股保险股盘点：指数涨超30%，新华保险表现居首,20251231,18:09,中性,0.9962,E:\code\project_1\reports\sentiment_analysis\embeddings\601628\1647297196.npy
+1647260824,资讯人寿财险临沂市郯城支公司被罚13万，编制虚假资料,20251231,15:53,中性,0.9992,E:\code\project_1\reports\sentiment_analysis\embeddings\601628\1647260824.npy
+1647259552,资讯中国人寿定边支公司被罚19.5万，涉销售误导等,20251231,15:50,中性,0.9992,E:\code\project_1\reports\sentiment_analysis\embeddings\601628\1647259552.npy

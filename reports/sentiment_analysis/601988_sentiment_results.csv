@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1646989798,定增复权价应该是是579，财政部还是亏钱的,20251231,11:05,负面,0.9993,E:\code\project_1\reports\sentiment_analysis\embeddings\601988\1646989798.npy
+1646967845,难搞，银行一口肉没吃到给阴套。现在猪肉周期底部搞点等年底猪价上涨算了。不然看着银,20251231,10:52,负面,0.9994,E:\code\project_1\reports\sentiment_analysis\embeddings\601988\1646967845.npy
+1646967301,72压单10万手，过不去的,20251231,10:51,负面,0.9993,E:\code\project_1\reports\sentiment_analysis\embeddings\601988\1646967301.npy
+1646955904,横盘一个月,20251231,10:44,负面,0.7628,E:\code\project_1\reports\sentiment_analysis\embeddings\601988\1646955904.npy
+1646950085,资讯年内定增募资排行榜：10家公司募资超百亿元,20251231,10:41,中性,0.9991,E:\code\project_1\reports\sentiment_analysis\embeddings\601988\1646950085.npy

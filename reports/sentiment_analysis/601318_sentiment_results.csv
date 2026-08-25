@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1646582002,下午成交了50个亿，是上午的一倍，应该移仓到位了。没想到年末还能看到平安这样的大,20251230,15:25,正面,0.8369,E:\code\project_1\reports\sentiment_analysis\embeddings\601318\1646582002.npy
+1646581575,第一波反弹将会出现在67.35左右，你准备好接飞刀了吗，嘿嘿嘿,20251230,15:24,正面,0.9988,E:\code\project_1\reports\sentiment_analysis\embeddings\601318\1646581575.npy
+1646580681,明天这个，可以抄家伙了好上了发,20251230,15:22,正面,0.9992,E:\code\project_1\reports\sentiment_analysis\embeddings\601318\1646580681.npy
+1646579983,感谢中国平安，感谢大A，持仓18个月盈利90%，已清。祝中国平安，一直保持慢慢上,20251230,15:20,正面,0.9991,E:\code\project_1\reports\sentiment_analysis\embeddings\601318\1646579983.npy
+1646578528,估计到1月10号就可以买了。,20251230,15:18,正面,0.999,E:\code\project_1\reports\sentiment_analysis\embeddings\601318\1646578528.npy

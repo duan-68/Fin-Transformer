@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1646956762,业绩大王,20251231,10:45,正面,0.9986,E:\code\project_1\reports\sentiment_analysis\embeddings\601899\1646956762.npy
+1646955832,江西铜业4天涨25个点,20251231,10:44,正面,0.9718,E:\code\project_1\reports\sentiment_analysis\embeddings\601899\1646955832.npy
+1646954503,资讯A股又现首日10倍新股！,20251231,10:43,中性,0.9985,E:\code\project_1\reports\sentiment_analysis\embeddings\601899\1646954503.npy
+1646953395,拉高出货是庄家惯用的手段，紫金矿业一直都是机构的标配,20251231,10:43,负面,0.9979,E:\code\project_1\reports\sentiment_analysis\embeddings\601899\1646953395.npy
+1646948404,紫金矿业不可能涨停的，这么大的盘,20251231,10:40,负面,0.8837,E:\code\project_1\reports\sentiment_analysis\embeddings\601899\1646948404.npy

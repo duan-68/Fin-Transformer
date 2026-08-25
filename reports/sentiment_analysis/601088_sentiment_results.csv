@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647267711,神华这一年涨了+0.65%。。。。。。这该怎么评价呢，,20251231,16:13,负面,0.9987,E:\code\project_1\reports\sentiment_analysis\embeddings\601088\1647267711.npy
+1647260008,很不错了，明年我也想做这个了，又稳又能护盘,20251231,15:51,正面,0.9993,E:\code\project_1\reports\sentiment_analysis\embeddings\601088\1647260008.npy
+1647242575,年初至今，这货+0.65%,20251231,15:14,负面,0.9989,E:\code\project_1\reports\sentiment_analysis\embeddings\601088\1647242575.npy
+1647242529,资讯央企科技：高质量经营持续驱动投资价值,20251231,15:14,中性,0.9992,E:\code\project_1\reports\sentiment_analysis\embeddings\601088\1647242529.npy
+1647177256,今天上上下下的是要做什么,20251231,14:23,中性,0.9988,E:\code\project_1\reports\sentiment_analysis\embeddings\601088\1647177256.npy

@@ -1,0 +1,6 @@
+﻿_id,post_title,post_date,post_time,sentiment,confidence,emb_path
+1647295232,资讯盘点2025：谁是AI应用大牛股？12家企业年内股价翻倍，胜宏科技近6倍领涨,20251231,17:59,中性,0.9961,reports/sentiment_analysis/embeddings/600519\1647295232.npy
+1647291212,早去哪里了？消息者买了十几年的黄牛,20251231,17:41,负面,0.9995,reports/sentiment_analysis/embeddings/600519\1647291212.npy
+1647290149,股价需5年下跌，支撑位：80元,20251231,17:36,负面,0.9995,reports/sentiment_analysis/embeddings/600519\1647290149.npy
+1647289840,当我知道贵州搞什么茅台冰淇淋我就知道要被他们经营废了,20251231,17:34,负面,0.9995,reports/sentiment_analysis/embeddings/600519\1647289840.npy
+1647289086,我只能来白酒人这里看看，心里才会稍微舒服点，宝宝是券商人，宝宝心里好苦啊,20251231,17:31,负面,0.9958,reports/sentiment_analysis/embeddings/600519\1647289086.npy
